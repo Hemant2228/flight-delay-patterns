@@ -1,11 +1,11 @@
-Flight_ID,Airline,Date,Origin,Destination,Delay (min),Reason
-1001,Airline A,2024-12-01,JFK,LAX,0,None
-1002,Airline B,2024-12-01,ATL,ORD,45,Weather
-1003,Airline C,2024-12-02,DFW,DEN,120,Weather
-1004,Airline A,2024-12-02,LAX,JFK,60,Technical
-1005,Airline D,2024-12-03,SEA,BOS,30,Air Traffic
-1006,Airline B,2024-12-03,MIA,ATL,90,Technical
-1007,Airline A,2024-12-04,SFO,LAX,15,Air Traffic
-1008,Airline C,2024-12-04,JFK,ORD,20,None
-1009,Airline D,2024-12-05,LAX,SEA,80,Weather
-1010,Airline B,2024-12-05,ATL,DFW,50,Technical
+ScheduledDeparture,DepartureDelay,Airline,Distance,WeatherCondition,Holiday
+2024-01-01 08:00:00,10,Airline A,250,Clear,True
+2024-01-01 09:30:00,30,Airline B,300,Rain,False
+2024-01-01 14:15:00,5,Airline A,500,Clear,False
+2024-01-02 10:00:00,120,Airline C,150,Snow,True
+2024-01-02 12:30:00,45,Airline B,200,Clear,False
+2024-01-02 16:45:00,15,Airline A,450,Rain,False
+2024-01-03 07:00:00,0,Airline C,400,Clear,False
+2024-01-03 13:00:00,50,Airline B,600,Clear,False
+2024-01-03 18:30:00,25,Airline A,350,Snow,True
+2024-01-04 15:00:00,10,Airline C,700,Clear,False
