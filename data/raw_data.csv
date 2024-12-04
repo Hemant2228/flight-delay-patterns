@@ -1,0 +1,11 @@
+Flight_ID,Airline,Date,Origin,Destination,Delay (min),Reason
+1001,Airline A,2024-12-01,JFK,LAX,0,None
+1002,Airline B,2024-12-01,ATL,ORD,45,Weather
+1003,Airline C,2024-12-02,DFW,DEN,120,Weather
+1004,Airline A,2024-12-02,LAX,JFK,60,Technical
+1005,Airline D,2024-12-03,SEA,BOS,30,Air Traffic
+1006,Airline B,2024-12-03,MIA,ATL,90,Technical
+1007,Airline A,2024-12-04,SFO,LAX,15,Air Traffic
+1008,Airline C,2024-12-04,JFK,ORD,20,None
+1009,Airline D,2024-12-05,LAX,SEA,80,Weather
+1010,Airline B,2024-12-05,ATL,DFW,50,Technical
