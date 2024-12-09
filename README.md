@@ -47,6 +47,9 @@ Model Performance:<br>
 → Achieved X% accuracy with [specific ML model]<br>
 → Reduced prediction error to Y minutes<br>
 Insights:<br>→  Flights during peak hours and specific seasons are more prone to delays.<br> <br>
-
-
+CHALLENGES FACED :-<br> <br>
+Data Imbalance:<br>→  Majority of flights had no delay, requiring data balancing techniques.<br>
+Feature Engineering:<br>→  Extracting meaningful features such as weather patterns and congestion metrics was time-intensive.<br>
+Computational Limitations:<br>→  Handling large datasets required optimizing code and leveraging cloud services.<br>
+Model Fine-Tuning:<br>→  Finding the best hyperparameters for accurate predictions was challenging
 
