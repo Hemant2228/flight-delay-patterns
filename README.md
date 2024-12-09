@@ -15,4 +15,10 @@ Bhati Akshraj Sinh [roll no. = ku2407u742]
 <br>
 Shivam Joshi [roll no. = ku2407u736]
 <br>
+---OBJECTIVE---
+<br>
+The objective of this project is to analyze and predict flight delays based on various factors such as weather, time of day, airline, and airport congestion. By understanding delay patterns, this project aims to help airlines, passengers, and airport authorities make informed decisions.
+<br>
+
+
 
