@@ -47,6 +47,17 @@ PROGRAMMING LANGUAGE : Python
 <br>
 → Excel/CSV viewer: For initial data exploration
 <br>
-
+<br>
+-: DATA SOURCE :-
+<br>
+<br>
+→ Download the Flight Delays Dataset from Kaggle (Bureau of Transportation Statistics).
+<br> 
+→ The dataset is in CSV format .
+<br> 
+→ The dataset includes fields such as FlightID, DepartureTime, ArrivalTime, DelayDuration, WeatherCondition, Airline, Airport, FlightType, etc.
+<br> 
+→ Use the dataset to analyze factors contributing to flight delays, including airline, airport, time of day, and weather conditions.<br>
+→ Utilize the data to train machine learning models for predicting flight delays and analyzing contributing factors.<br>
 
 
