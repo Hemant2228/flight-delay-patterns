@@ -34,14 +34,19 @@ PROGRAMMING LANGUAGE : Python
 Pandas: For data manipulation and analysis
 <br>
 NumPy: For numerical computations
-<br.
+<br>
 Matplotlib & Seaborn: For data visualization
 <br>
 <br>
 -: TOOLS :-
+<br>
+<br>
 Git/GitHub: For version control and collaboration
+<br>
 Google Colab: For cloud-based computation
+<br>
 Excel/CSV viewer: For initial data exploration
+<br>
 
 
 
