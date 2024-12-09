@@ -42,11 +42,11 @@ EXECUTION STEPS :-<br> <br>
 → Deploy the project (if applicable) for user interaction.<br>
 → Document results and prepare for final presentation.<br> <br>
 SUMMARY :-<br> <br>
-Analysis:<br> Key factors affecting delays include weather conditions, departure time, and airline performance.<br>
+Analysis:<br>→ Key factors affecting delays include weather conditions, departure time, and airline performance.<br>
 Model Performance:<br>
-Achieved X% accuracy with [specific ML model]<br>
-Reduced prediction error to Y minutes<br>
-Insights:<br> Flights during peak hours and specific seasons are more prone to delays.<br> <br>
+→ Achieved X% accuracy with [specific ML model]<br>
+→ Reduced prediction error to Y minutes<br>
+Insights:<br>→  Flights during peak hours and specific seasons are more prone to delays.<br> <br>
 
 
 
