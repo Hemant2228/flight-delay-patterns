@@ -31,21 +31,21 @@ PROGRAMMING LANGUAGE : Python
 -: LIBRARIES :-
 <br>
 <br>
-Pandas: For data manipulation and analysis
+→ Pandas: For data manipulation and analysis
 <br>
-NumPy: For numerical computations
+→ NumPy: For numerical computations
 <br>
-Matplotlib & Seaborn: For data visualization
+→ Matplotlib & Seaborn: For data visualization
 <br>
 <br>
 -: TOOLS :-
 <br>
 <br>
-Git/GitHub: For version control and collaboration
+→ Git/GitHub: For version control and collaboration
 <br>
-Google Colab: For cloud-based computation
+→ Google Colab: For cloud-based computation
 <br>
-Excel/CSV viewer: For initial data exploration
+→ Excel/CSV viewer: For initial data exploration
 <br>
 
 
